@@ -11,9 +11,10 @@
 - **Database**: SQL, MangoDB
 - **Tools**: Git, Docker, VSCode
 - **Frameworks**: React, NodeJS, Express
-
+<!--
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+-->
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/jing-li-7a0766245/

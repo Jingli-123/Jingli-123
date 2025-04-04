@@ -10,7 +10,7 @@
 - **Programming Languages**: PHP, JavaScript/TypeScript, Java, Python, C#
 - **Database**: SQL, MangoDB
 - **Tools**: Git, Docker, VSCode
-- **Frameworks**: React, NodeJS, Express
+- **Frameworks**: React, NextJS, NodeJS, Express, .NET
 <!--
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>

@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 🌱 I have completed a Graduate Certificate in Information Technology Fundamentals from La Trobe University, where I developed a strong foundation in programing, database design and management, machine learng and computer vision.
-- 💼 Full Stack Developer at Nativus Fitness Technology, contributing to the Wizy platform project.
+- 💼 Full Stack Developer at Nativus Fitness Technology, contributing to the TidyTeddy platform project.
 - 💻 Passionate about Full Stack development and database (SQL) design and management.
 
 ## 🛠️ My Skills

@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Jing Li 
+# I'm Jing Li [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/laurel-li-7a0766245/)
 
 ## 🚀 About Me
 - 🌱 I have completed a Graduate Certificate in Information Technology Fundamentals from La Trobe University, where I developed a strong foundation in programing, database design and management, machine learng and computer vision.

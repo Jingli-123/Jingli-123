@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Jing Li [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/laurel-li-7a0766245/)
+# I'm Jing Li [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/laurel-jing-li-7a0766245/)
 
 ## 🚀 About Me
 - 🌱 I have completed a Graduate Certificate in Information Technology Fundamentals from La Trobe University, where I developed a strong foundation in programing, database design and management, machine learng and computer vision.
@@ -17,7 +17,7 @@
 -->
 
 ## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/jing-li-7a0766245/
+- LinkedIn: https://www.linkedin.com/in/laurel-jing-li-7a0766245/
 
 <!--
 **Jingli-123/Jingli-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

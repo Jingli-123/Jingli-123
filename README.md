@@ -2,12 +2,15 @@
 # I'm Laurel (Jing) Li [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/laurel-jing-li-7a0766245/)
 
 ## 🚀 About Me
-- 🌱 I have completed a Graduate Certificate in Information Technology Fundamentals from La Trobe University, where I developed a strong foundation in programing, database design and management, machine learng and computer vision.
-- 💼 Full Stack Developer at Nativus Fitness Technology, contributing to the TidyTeddy platform project.
+- 🌱 I have completed Master of Information Technology from La Trobe University in 2025, where I developed a strong foundation in programing, database design and management, machine learning and deep learning.
+- 💼 Full Stack Developer at Nativus Fitness Technology, working on a SaaS platform and mobile app, and contributing to the TidyTeddy platform project.
 - 💻 Passionate about Full Stack development and database (SQL) design and management.
 
 ## 🛠️ My Skills
 - **Programming Languages**: PHP, JavaScript/TypeScript, Java, Python, C#
+- **Frontend**: React, NextJS
+- **Backend**: NodeJS, .NET
+- **Mobile**: React Native
 - **Database**: SQL, MangoDB
 - **Tools**: Git, Docker, VSCode
 - **Frameworks**: React, NextJS, NodeJS, Express, .NET

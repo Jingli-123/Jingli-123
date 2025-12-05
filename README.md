@@ -8,12 +8,9 @@
 
 ## 🛠️ My Skills
 - **Programming Languages**: PHP, JavaScript/TypeScript, Java, Python, C#
-- **Frontend**: React, NextJS
-- **Backend**: NodeJS, .NET
-- **Mobile**: React Native
+- **Frameworks**: React, React Native, NextJS, NodeJS, Express, .NET
 - **Database**: SQL, MangoDB
 - **Tools**: Git, Docker, VSCode
-- **Frameworks**: React, NextJS, NodeJS, Express, .NET
 <!--
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)

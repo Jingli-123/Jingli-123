@@ -17,7 +17,7 @@
 -->
 
 ## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/laurel-jing-li-7a0766245/
+- LinkedIn: https://www.linkedin.com/in/laurel-li-7a0766245/
 
 <!--
 **Jingli-123/Jingli-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
